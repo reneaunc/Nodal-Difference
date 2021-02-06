@@ -1,0 +1,13 @@
+import java.util.*;
+import java.math.*;
+
+public class BTSApp{
+
+    static int min = Integer.MAX_VALUE;
+    static Node parent = null;
+
+    public static void main(String[] args){
+        System.out.print("Creating new BST...");
+        BST a = new BST();
+    }
+}
